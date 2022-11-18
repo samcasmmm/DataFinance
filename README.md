@@ -1,9 +1,5 @@
 # Preview
 
-# Desktop ![Desktop](https://user-images.githubusercontent.com/87710112/202780509-486589d2-75b8-498e-8918-b15c6aada6f5.png)
-
-
-# Mobile ![Mobile](https://user-images.githubusercontent.com/87710112/202780583-4cd8fd13-235d-41f6-988d-c7189dbb1e7c.png)
 <table>
   <tr>
     <td valign="top"><img src="https://user-images.githubusercontent.com/87710112/202780509-486589d2-75b8-498e-8918-b15c6aada6f5.png"/></td>
